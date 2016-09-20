@@ -1,2 +1,6 @@
 # Algorithm Design and Analysis Part 1
-This is a repository for programming assignments algorithm design and analysis from Stanford University
+
+This repository is for Stanford University's course on algorithm design and analysis Part 1
+
+Start Date - September 5 2016
+End Date - Oct 30 2016
